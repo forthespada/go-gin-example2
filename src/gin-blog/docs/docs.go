@@ -449,6 +449,7 @@ var doc = `{
                 "produces": [
                     "application/json"
                 ],
+
                 "summary": "Update article tag",
                 "parameters": [
                     {
