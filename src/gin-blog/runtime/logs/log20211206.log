@@ -8,3 +8,7 @@
 [INFO][article.go:124]2021/12/06 00:51:43 content 内容不能为空
 [INFO][article.go:124]2021/12/06 00:51:43 created_by 创建人不能为空
 [INFO][article.go:124]2021/12/06 00:51:43 state 状态只允许0或1
+[INFO][article.go:124]2021/12/07 09:38:20 title 标题不能为空
+[INFO][article.go:124]2021/12/07 09:38:20 desc 简述不能为空
+[INFO][article.go:124]2021/12/07 09:38:20 content 内容不能为空
+[INFO][article.go:124]2021/12/07 09:38:20 created_by 创建人不能为空
